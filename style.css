@@ -706,14 +706,21 @@ img {
     margin: 10px 0;
 }
 .btn {
-    display: block;
+    display: inline-block;
     margin: 10px 0;
     padding: 10px;
     background-color: #007bff;
-    color: white;
+    color: rgb(255, 255, 255);
     border: none;
     cursor: pointer;
+    align-items: center;
 }
+.btn:hover{
+    background-color: #04AA6D;
+  color: white;
+}
+
+
 /* Styling for the footer */
 .footer a:hover,
 .footer a.active{
@@ -722,10 +729,10 @@ img {
 
 .login-form{
     position:relative;
-   box-shadow: var(--box-shadow);
+   
     padding:1rem;
     border-radius: .5rem;
-    
+    background-color: #d9f8f4;
     text-align: center;
 }
 .login-form.active{
@@ -735,22 +742,22 @@ img {
  .login-form h3{
     font-size: 2.5rem;
     text-transform: uppercase;
-    color: var(--black);
+    color:black;
 }
  .login-form .box{
     width: 100%;
     margin: .7rem 0;
-    background: #eee;
+    background: #fcfbfb;
     border-radius: .5rem;
     padding: 1rem;
     font-size: 1.6rem;
-    color: var(--black);
+    color: black;
     text-transform: none;
 }
 .login-form p{
     font-size: 1.4rem;
     padding: .5rem 0;
-    color: var(--light-color);
+    color: #1f191a;
 }
 .login-form p a{
     color: var(--orange);
