@@ -42,7 +42,7 @@
     height: 100vh; /* Adjust height as needed */
 }
 .header{
-    position: absolute;
+    position: fixed;
     top: 0;
     left: 0;
     background: rgba(138, 129, 129, 0.5);
