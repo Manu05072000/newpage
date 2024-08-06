@@ -148,6 +148,7 @@ line-height: 1.2;
 .about-content p{
     font-size: 1.6rem;
     margin: 2rem 0 3rem;
+    padding: 4px;
 }
 .skills{
     background-image: url(./pexels-francesco-ungaro-998641.jpg);
