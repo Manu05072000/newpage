@@ -45,7 +45,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    background: rgba(138, 129, 129, 0.5);
+   
     width: 100%;
     padding: 1rem 3%;
     display: flex;
@@ -580,6 +580,7 @@ img {
 	color: #fff;
 	text-transform: uppercase;
 	letter-spacing: 2px;
+    padding: 8px;
 	font-size: 1.5em;
 
 }
@@ -604,7 +605,7 @@ img {
 
 }
 .footer {
-    position: fixed;
+    
     bottom: 0;
     left: 0;
     width: 100%;
