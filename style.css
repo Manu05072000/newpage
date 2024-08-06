@@ -78,6 +78,7 @@
     display: none;
 }
 .home{
+    padding: 5px 15px 20px 10px;
     display: flex;
     justify-content: center;
     align-items: center;
