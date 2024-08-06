@@ -58,7 +58,7 @@ ScrollReveal().reveal('.home-content h1, .about-img', { origin: 'left'});
 ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right'});
 
 const typed = new Typed('.multiple-text',{
-    strings: ['Bulk sms','Bulk emails','whatsapp bussiness','Misscall','Longcode'],
+    strings: ['Bulk SMS','Whatsapp Marketting Service','Bulk Emails Service','Misscall Service','Longcode Service','Voice SMS Service','RCS Message Service','CPass Service'],
     typeSpeed:100,
     backspeed:100,
     backDelay:1000,
