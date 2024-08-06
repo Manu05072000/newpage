@@ -45,7 +45,7 @@
     position: fixed;
     top: 0;
     left: 0;
-   
+    background-image: url(./pexels-francesco-ungaro-998641.jpg);
     width: 100%;
     padding: 1rem 3%;
     display: flex;
@@ -332,7 +332,7 @@ width: 100%;
     padding-right: 2rem;
 }
 .footer .box-container .box p{
-    line-height: 1.8;
+    line-height: 1.1;
     font-size: 1.5rem;
     color: var(--light-color);
     padding: 1rem 0;
